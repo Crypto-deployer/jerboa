@@ -75,7 +75,7 @@ export default function Home() {
               height={1000}
               className={`max-w-full h-auto rounded-full shadow-lg ${
                 zoom
-                  ? "scale-[2.25] translate-x-[10%] translate-y-[30%]"
+                  ? "scale-[3] translate-x-[10%] translate-y-[50%]"
                   : "scale-100"
               } transition-all duration-3000 ease-in-out`}
             />
